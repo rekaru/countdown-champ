@@ -4,7 +4,7 @@
 Installation
 ----
 ```
-git clone git@github.com:rekaru/countdown-champ.git
+git clone https://github.com/rekaru/countdown-champ.git
 cd countdown-champ
 npm install
 npm start
